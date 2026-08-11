@@ -130,6 +130,7 @@ Business Insights
 Recommendations
 
 
+---
 ##🧹 Data Cleaning & Preparation
 
 The first stage of the project focused on understanding and preparing the dataset.
@@ -166,7 +167,9 @@ print(df.duplicated().sum())
 print("\nData Types:")
 print(df.dtypes)
 
+---
 
+---
 ##⚙️ Feature Engineering
 
 Additional variables were created to support the analysis.
@@ -199,6 +202,7 @@ restaurant_revenue = (
 This analysis identifies the restaurants contributing the largest share of TacoExpress revenue.
 
 
+---
 ##Business Question
 
 Which restaurants contribute the most to revenue?
@@ -227,6 +231,7 @@ orders_hour = (
 
 A line chart was used to identify peak ordering periods.
 
+---
 ##Business Application
 
 Understanding peak ordering periods can help TacoExpress:
@@ -349,6 +354,7 @@ Business Question
 Do customers who spend more also tend to tip more?
 
 
+---
 ##🚚 Delivery Performance
 
 Delivery performance was analysed using:
@@ -389,6 +395,7 @@ print(weekend_revenue)
 This analysis helps determine whether weekend demand differs significantly from weekday demand.
 
 
+---
 ##Business Application
 
 If weekend demand is higher, TacoExpress can consider:
@@ -399,6 +406,7 @@ Running weekend promotions.
 Preparing restaurants for higher order volumes.
 
 
+---
 ##📊 Key Visualisations
 
 The project produces several business-focused visualisations:
@@ -416,6 +424,7 @@ Tip Percentage Analysis
 Delivery Performance Analysis
 
 
+---
 ##💡 Key Insights
 
 The analysis is designed to answer several important business questions.
@@ -441,6 +450,7 @@ Business Growth
 Identify high-performing areas that could receive additional marketing, staffing and operational investment.
 
 
+---
 ##🚀 Recommendations
 
 Based on the analysis, TacoExpress can consider the following strategies.
@@ -468,3 +478,9 @@ Use spending and ordering patterns to develop targeted loyalty programmes.
 6. Use Data-Driven Staffing
 
 Use historical ordering patterns to forecast future demand and optimise staffing.
+
+
+---
+Project Tags
+
+Data Analytics Python Excel Pandas Data Visualization EDA Business Intelligence Customer Analytics Sales Analytics Delivery Analytics
